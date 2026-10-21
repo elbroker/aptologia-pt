@@ -1,0 +1,101 @@
+# Aptología — respostas sobre moradia com dados abertos
+
+> Respostas diretas com dados abertos (CC BY 4.0) da Aptología (aptologia.com) sobre aluguel e venda de imóveis por bairro e cidade na Colômbia e em mais 12 países. Anúncios ativos em 18 de outubro de 2026; cada resposta cita n, data, fonte e o DOI (Zenodo) ou a pasta no GitHub do estudo original em espanhol. Autor: Daniel Mauricio Pinzón Pineda (ORCID 0009-0007-5142-366X).
+
+
+## Cidades e países
+
+- [Bogotá, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-bogota/): 8062
+- [Medellín, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-medellin/): 4875
+- [Barranquilla, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-barranquilla/): 1880
+- [Envigado, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-envigado/): 1477
+- [Cali, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-cali/): 1434
+- [Asunción, Paraguai](https://elbroker.github.io/aptologia-pt/c/paraguay-asuncion/): 1320
+- [Ciudad de Buenos Aires, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-ciudad-de-buenos-aires/): 1182
+- [Lima, Peru](https://elbroker.github.io/aptologia-pt/c/peru-lima/): 1140
+- [Cartagena, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-cartagena/): 1066
+- [Pereira, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-pereira/): 984
+- [Montevideo, Uruguai](https://elbroker.github.io/aptologia-pt/c/uruguay-montevideo/): 938
+- [Punta del Este, Uruguai](https://elbroker.github.io/aptologia-pt/c/uruguay-punta-del-este/): 918
+- [Rionegro, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-rionegro/): 815
+- [São Paulo, Brasil](https://elbroker.github.io/aptologia-pt/c/brasil-sao-paulo/): 800
+- [Sabaneta, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-sabaneta/): 780
+- [Ciudad de México, México](https://elbroker.github.io/aptologia-pt/c/mexico-ciudad-de-mexico/): 717
+- [Santiago, Chile](https://elbroker.github.io/aptologia-pt/c/chile-santiago/): 709
+- [Santa Marta, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-santa-marta/): 692
+- [Santo Domingo, República Dominicana](https://elbroker.github.io/aptologia-pt/c/republica-dominicana-santo-domingo/): 600
+- [Santa Cruz de la Sierra, Bolívia](https://elbroker.github.io/aptologia-pt/c/bolivia-santa-cruz-de-la-sierra/): 559
+- [Manizales, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-manizales/): 433
+- [Quito, Equador](https://elbroker.github.io/aptologia-pt/c/ecuador-quito/): 372
+- [Bello, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-bello/): 359
+- [Armenia, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-armenia/): 308
+- [Chía, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-chia/): 299
+- [Bucaramanga, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-bucaramanga/): 296
+- [Cajicá, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-cajica/): 251
+- [Itagüí, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-itagui/): 249
+- [Lisboa, Portugal](https://elbroker.github.io/aptologia-pt/c/portugal-lisboa/): 247
+- [Guayaquil, Equador](https://elbroker.github.io/aptologia-pt/c/ecuador-guayaquil/): 221
+- [Cúcuta, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-cucuta/): 205
+- [El Retiro, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-el-retiro/): 192
+- [Caracas, Venezuela](https://elbroker.github.io/aptologia-pt/c/venezuela-caracas/): 164
+- [Ibagué, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-ibague/): 123
+- [Oporto, Portugal](https://elbroker.github.io/aptologia-pt/c/portugal-oporto/): 118
+- [Floridablanca, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-floridablanca/): 111
+- [La Paz, Bolívia](https://elbroker.github.io/aptologia-pt/c/bolivia-la-paz/): 108
+- [Jamundí, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-jamundi/): 98
+- [Soacha, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-soacha/): 98
+- [Arequipa, Peru](https://elbroker.github.io/aptologia-pt/c/peru-arequipa/): 91
+- [Cuenca, Equador](https://elbroker.github.io/aptologia-pt/c/ecuador-cuenca/): 86
+- [La Estrella, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-la-estrella/): 85
+- [Mosquera, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-mosquera/): 84
+- [Dosquebradas, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-dosquebradas/): 78
+- [La Ceja, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-la-ceja/): 77
+- [Montería, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-monteria/): 76
+- [Zapopan, México](https://elbroker.github.io/aptologia-pt/c/mexico-zapopan/): 73
+- [Monterrey, México](https://elbroker.github.io/aptologia-pt/c/mexico-monterrey/): 69
+- [Madrid, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-madrid/): 68
+- [Cochabamba, Bolívia](https://elbroker.github.io/aptologia-pt/c/bolivia-cochabamba/): 65
+- [Córdoba, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-cordoba/): 60
+- [Zipaquirá, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-zipaquira/): 60
+- [Guadalajara, México](https://elbroker.github.io/aptologia-pt/c/mexico-guadalajara/): 58
+- [La Calera, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-la-calera/): 54
+- [Luque, Paraguai](https://elbroker.github.io/aptologia-pt/c/paraguay-luque/): 45
+- [Villavicencio, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-villavicencio/): 42
+- [San Isidro, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-san-isidro/): 38
+- [Tocancipa, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-tocancipa/): 37
+- [Maldonado, Uruguai](https://elbroker.github.io/aptologia-pt/c/uruguay-maldonado/): 37
+- [Tigre, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-tigre/): 36
+- [San Pedro Garza Garcia, México](https://elbroker.github.io/aptologia-pt/c/mexico-san-pedro-garza-garcia/): 34
+- [Santiago, República Dominicana](https://elbroker.github.io/aptologia-pt/c/republica-dominicana-santiago/): 32
+- [Vicente López, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-vicente-lopez/): 30
+- [Rosario, Argentina](https://elbroker.github.io/aptologia-pt/c/argentina-rosario/): 26
+- [Piedecuesta, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-piedecuesta/): 26
+- [Punta Cana, República Dominicana](https://elbroker.github.io/aptologia-pt/c/republica-dominicana-punta-cana/): 25
+- [Palmira, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-palmira/): 24
+- [Puerto Colombia, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-puerto-colombia/): 24
+- [Callao, Peru](https://elbroker.github.io/aptologia-pt/c/peru-callao/): 21
+- [Los Patios, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-los-patios/): 20
+- [El Carmen de Viboral, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-el-carmen-de-viboral/): 19
+- [Tunja, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-tunja/): 19
+- [Faro, Portugal](https://elbroker.github.io/aptologia-pt/c/portugal-faro/): 10
+- [Maracaibo, Venezuela](https://elbroker.github.io/aptologia-pt/c/venezuela-maracaibo/): 10
+- [Marinilla, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-marinilla/): 9
+- [Guarne, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-guarne/): 7
+- [Villa Del Rosario, Colômbia](https://elbroker.github.io/aptologia-pt/c/colombia-villa-del-rosario/): 7
+- [Fernando de la Mora, Paraguai](https://elbroker.github.io/aptologia-pt/c/paraguay-fernando-de-la-mora/): 7
+- [Lambaré, Paraguai](https://elbroker.github.io/aptologia-pt/c/paraguay-lambare/): 3
+- [San Lorenzo, Paraguai](https://elbroker.github.io/aptologia-pt/c/paraguay-san-lorenzo/): 3
+
+## Estudos de moradia da Aptología em português (outubro de 2026)
+
+- [Estudos de moradia da Aptología em português (outubro de 2026)](https://elbroker.github.io/aptologia-pt/c/estudios/)
+
+## Full text
+
+- [llms-full.txt](https://elbroker.github.io/aptologia-pt/llms-full.txt)
+- [sitemap.xml](https://elbroker.github.io/aptologia-pt/sitemap.xml)
+
+## Outros idiomas
+
+- [ES](https://elbroker.github.io/aptologia-es/llms.txt)
+- [EN](https://elbroker.github.io/aptologia-en/llms.txt)
